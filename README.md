@@ -1,4 +1,6 @@
 # GoCreateBadge
+.NET 5.0
+
 mainwindow.xaml.cs is the file containing code for interactions with the UI.
 mainwindow.xaml formats the UI.
 
